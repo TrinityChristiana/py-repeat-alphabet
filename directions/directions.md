@@ -1,9 +1,4 @@
 # Repeat the Alphabet
-   
-Created: 04-13-20 | Modified:
-
-This assignment is an individual exercise: [Directions here]()
----
 
 In this exercise, given a string, you will repeat the characters vertically depending on its position in the alphabet.
 
